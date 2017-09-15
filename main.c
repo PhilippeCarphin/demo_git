@@ -4,7 +4,7 @@
 
 int hello(const char *nom)
 {
-	printf("Hello %s", nom);
+	printf("Hello %s\n", nom);
 	return 0;
 }
 
